@@ -1,0 +1,9 @@
+{
+  "reallocation_pct_of_non_ohio_budget": 15.0,
+  "ohio_budget_before": 105139.0,
+  "ohio_budget_after": 389368.0,
+  "ohio_budget_increase_pct": 270.3,
+  "gap_closure_assumption_pct": 50.0,
+  "projected_incremental_rx_per_year": 3068.0,
+  "projected_incremental_revenue_per_year": 4331671.0
+}

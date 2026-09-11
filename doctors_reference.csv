@@ -1,0 +1,84 @@
+doctor_id,doctor_name,specialty,state,region
+DR0001,Dr. Helen Collins,Primary Care / Internal Medicine,Pennsylvania,Northeast
+DR0002,Dr. Brian Cox,Primary Care / Internal Medicine,Illinois,Midwest
+DR0003,Dr. Larry Jackson,Primary Care / Internal Medicine,Arizona,West
+DR0004,Dr. Laura Mendoza,Primary Care / Internal Medicine,New York,Northeast
+DR0005,Dr. Brandon Cook,Primary Care / Internal Medicine,North Carolina,South
+DR0006,Dr. Jason Lopez,Primary Care / Internal Medicine,Georgia,South
+DR0007,Dr. Anthony Rivera,Primary Care / Internal Medicine,Pennsylvania,Northeast
+DR0008,Dr. Thomas Wood,Primary Care / Internal Medicine,Florida,South
+DR0009,Dr. Shirley Torres,Primary Care / Internal Medicine,Illinois,Midwest
+DR0010,Dr. Cynthia Flores,Primary Care / Internal Medicine,Pennsylvania,Northeast
+DR0011,Dr. Daniel Rodriguez,Primary Care / Internal Medicine,Florida,South
+DR0012,Dr. Rachel Garcia,Primary Care / Internal Medicine,Illinois,Midwest
+DR0013,Dr. Gregory Harris,Primary Care / Internal Medicine,Pennsylvania,Northeast
+DR0014,Dr. Joseph Morgan,Primary Care / Internal Medicine,Georgia,South
+DR0015,Dr. Michelle Miller,Primary Care / Internal Medicine,Florida,South
+DR0016,Dr. Anthony Watson,Endocrinology,California,West
+DR0017,Dr. Frank Morgan,Endocrinology,Illinois,Midwest
+DR0018,Dr. Kenneth Nelson,Endocrinology,Ohio,Midwest
+DR0019,Dr. Linda Roberts,Endocrinology,Georgia,South
+DR0020,Dr. Scott Morris,Endocrinology,North Carolina,South
+DR0021,Dr. Nicole Allen,Endocrinology,North Carolina,South
+DR0022,Dr. Edward Robinson,Endocrinology,Florida,South
+DR0023,Dr. Carol Miller,Endocrinology,Pennsylvania,Northeast
+DR0024,Dr. Samantha Moore,Endocrinology,Illinois,Midwest
+DR0025,Dr. Elizabeth Morris,Endocrinology,Texas,South
+DR0026,Dr. Donna Lee,Endocrinology,Pennsylvania,Northeast
+DR0027,Dr. Jonathan James,Endocrinology,California,West
+DR0028,Dr. Joseph Howard,Cardiology,Ohio,Midwest
+DR0029,Dr. Pamela Rodriguez,Cardiology,New York,Northeast
+DR0030,Dr. Helen Howard,Cardiology,New York,Northeast
+DR0031,Dr. Benjamin Ramos,Cardiology,New York,Northeast
+DR0032,Dr. Patrick Sanchez,Cardiology,Texas,South
+DR0033,Dr. Brenda Edwards,Cardiology,New York,Northeast
+DR0034,Dr. Gregory Moore,Cardiology,Georgia,South
+DR0035,Dr. James Bailey,Cardiology,Texas,South
+DR0036,Dr. Frank Reyes,Cardiology,Florida,South
+DR0037,Dr. Pamela Harris,Cardiology,North Carolina,South
+DR0038,Dr. Ryan Adams,Cardiology,Texas,South
+DR0039,Dr. Kathleen Brown,Cardiology,Texas,South
+DR0040,Dr. Matthew Hernandez,Rheumatology,Texas,South
+DR0041,Dr. Jonathan Collins,Rheumatology,North Carolina,South
+DR0042,Dr. Raymond Gomez,Rheumatology,North Carolina,South
+DR0043,Dr. Brandon Phillips,Rheumatology,Florida,South
+DR0044,Dr. Ryan Roberts,Rheumatology,Florida,South
+DR0045,Dr. Ryan Bailey,Rheumatology,Georgia,South
+DR0046,Dr. Gary Williams,Rheumatology,Arizona,West
+DR0047,Dr. Deborah Ruiz,Rheumatology,Illinois,Midwest
+DR0048,Dr. Mark Torres,Rheumatology,Ohio,Midwest
+DR0049,Dr. Raymond Brown,Rheumatology,North Carolina,South
+DR0050,Dr. Katherine Garcia,Rheumatology,Illinois,Midwest
+DR0051,Dr. Kimberly Chavez,Rheumatology,Texas,South
+DR0052,Dr. Deborah Reyes,Oncology,Pennsylvania,Northeast
+DR0053,Dr. Ryan Rivera,Oncology,Arizona,West
+DR0054,Dr. Diane Reyes,Oncology,Ohio,Midwest
+DR0055,Dr. Edward Nguyen,Oncology,Arizona,West
+DR0056,Dr. Steven Thomas,Oncology,Texas,South
+DR0057,Dr. Robert Martinez,Oncology,Ohio,Midwest
+DR0058,Dr. Helen Rogers,Oncology,Pennsylvania,Northeast
+DR0059,Dr. Stephanie Cook,Oncology,Illinois,Midwest
+DR0060,Dr. Catherine Rivera,Oncology,Illinois,Midwest
+DR0061,Dr. Barbara Hall,Oncology,Pennsylvania,Northeast
+DR0062,Dr. Kevin Green,Oncology,Florida,South
+DR0063,Dr. George Perez,Oncology,Arizona,West
+DR0064,Dr. Brenda Cruz,Pulmonology,Illinois,Midwest
+DR0065,Dr. Kenneth Gray,Pulmonology,Illinois,Midwest
+DR0066,Dr. Andrew Hernandez,Pulmonology,Ohio,Midwest
+DR0067,Dr. Dennis Allen,Pulmonology,Florida,South
+DR0068,Dr. Kevin Morales,Pulmonology,Texas,South
+DR0069,Dr. Ashley Morgan,Pulmonology,Arizona,West
+DR0070,Dr. Ashley Peterson,Pulmonology,Illinois,Midwest
+DR0071,Dr. Justin Bailey,Pulmonology,Illinois,Midwest
+DR0072,Dr. Scott Harris,Pulmonology,Georgia,South
+DR0073,Dr. John Green,Pulmonology,North Carolina,South
+DR0074,Dr. Elizabeth Adams,Infectious Disease,Pennsylvania,Northeast
+DR0075,Dr. Charles Cook,Infectious Disease,California,West
+DR0076,Dr. Benjamin Evans,Infectious Disease,Arizona,West
+DR0077,Dr. Nancy Adams,Infectious Disease,Georgia,South
+DR0078,Dr. Maria Morgan,Infectious Disease,Florida,South
+DR0079,Dr. Justin Reyes,Infectious Disease,Illinois,Midwest
+DR0080,Dr. Emily Cruz,Infectious Disease,Pennsylvania,Northeast
+DR0081,Dr. Jacob Rodriguez,Infectious Disease,Illinois,Midwest
+DR0082,Dr. Nicholas Davis,Infectious Disease,Texas,South
+DR0083,Dr. Melissa Peterson,Infectious Disease,Pennsylvania,Northeast

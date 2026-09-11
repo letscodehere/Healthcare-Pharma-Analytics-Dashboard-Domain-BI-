@@ -1,0 +1,11 @@
+state,region,perf_multiplier
+California,West,1.05
+Texas,South,0.97
+New York,Northeast,1.1
+Florida,South,0.95
+Illinois,Midwest,1.0
+Pennsylvania,Northeast,0.98
+Ohio,Midwest,0.78
+Georgia,South,0.99
+North Carolina,South,1.02
+Arizona,West,1.15

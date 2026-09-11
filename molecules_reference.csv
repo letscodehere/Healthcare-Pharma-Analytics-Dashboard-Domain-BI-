@@ -1,0 +1,17 @@
+molecule,brand,therapy_area,base_rx,monthly_trend,approx_cost_per_rx
+Semaglutide,Ozempic,Diabetes & Metabolic,14,0.028,950
+Tirzepatide,Mounjaro,Diabetes & Metabolic,6,0.045,1050
+Empagliflozin,Jardiance,Diabetes & Metabolic,11,0.014,550
+Dulaglutide,Trulicity,Diabetes & Metabolic,10,0.004,900
+Dapagliflozin,Farxiga,Diabetes & Metabolic,8,0.01,560
+Sitagliptin,Januvia,Diabetes & Metabolic,9,-0.012,540
+Apixaban,Eliquis,Cardiovascular,16,0.006,480
+Rivaroxaban,Xarelto,Cardiovascular,12,0.003,470
+Sacubitril-Valsartan,Entresto,Cardiovascular,7,0.02,610
+Adalimumab,Humira,Immunology,9,-0.028,6800
+Etanercept,Enbrel,Immunology,6,-0.01,6200
+Ustekinumab,Stelara,Immunology,5,-0.004,7400
+Ibrutinib,Imbruvica,Oncology,4,-0.016,15200
+Palbociclib,Ibrance,Oncology,5,0.005,14600
+Fluticasone-Umeclidinium-Vilanterol,Trelegy Ellipta,Respiratory,10,0.017,420
+Bictegravir-Emtricitabine-Tenofovir,Biktarvy,Infectious Disease (HIV),8,0.019,3750

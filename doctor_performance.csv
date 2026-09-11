@@ -1,0 +1,84 @@
+doctor_id,doctor_name,specialty,state,total_rx,total_revenue
+DR0058,Dr. Helen Rogers,Oncology,Pennsylvania,525,7758870.57
+DR0061,Dr. Barbara Hall,Oncology,Pennsylvania,497,7422664.0
+DR0055,Dr. Edward Nguyen,Oncology,Arizona,478,7037462.42
+DR0049,Dr. Raymond Brown,Rheumatology,North Carolina,995,6791596.94
+DR0063,Dr. George Perez,Oncology,Arizona,421,6193058.1
+DR0059,Dr. Stephanie Cook,Oncology,Illinois,391,5787632.19
+DR0060,Dr. Catherine Rivera,Oncology,Illinois,345,5111713.64
+DR0013,Dr. Gregory Harris,Primary Care / Internal Medicine,Pennsylvania,7154,5061148.69
+DR0004,Dr. Laura Mendoza,Primary Care / Internal Medicine,New York,7011,4908479.05
+DR0001,Dr. Helen Collins,Primary Care / Internal Medicine,Pennsylvania,6326,4481476.45
+DR0009,Dr. Shirley Torres,Primary Care / Internal Medicine,Illinois,6302,4468676.42
+DR0026,Dr. Donna Lee,Endocrinology,Pennsylvania,5236,4244412.3
+DR0015,Dr. Michelle Miller,Primary Care / Internal Medicine,Florida,5901,4171434.93
+DR0017,Dr. Frank Morgan,Endocrinology,Illinois,5049,4038996.69
+DR0053,Dr. Ryan Rivera,Oncology,Arizona,268,3991431.85
+DR0040,Dr. Matthew Hernandez,Rheumatology,Texas,583,3955360.62
+DR0042,Dr. Raymond Gomez,Rheumatology,North Carolina,581,3932047.63
+DR0056,Dr. Steven Thomas,Oncology,Texas,261,3860328.79
+DR0003,Dr. Larry Jackson,Primary Care / Internal Medicine,Arizona,5420,3807337.76
+DR0046,Dr. Gary Williams,Rheumatology,Arizona,542,3681709.06
+DR0041,Dr. Jonathan Collins,Rheumatology,North Carolina,532,3619880.25
+DR0023,Dr. Carol Miller,Endocrinology,Pennsylvania,4464,3606199.43
+DR0057,Dr. Robert Martinez,Oncology,Ohio,235,3519083.29
+DR0025,Dr. Elizabeth Morris,Endocrinology,Texas,4268,3446026.25
+DR0078,Dr. Maria Morgan,Infectious Disease,Florida,882,3356650.59
+DR0048,Dr. Mark Torres,Rheumatology,Ohio,487,3288237.06
+DR0011,Dr. Daniel Rodriguez,Primary Care / Internal Medicine,Florida,4402,3107143.19
+DR0005,Dr. Brandon Cook,Primary Care / Internal Medicine,North Carolina,4210,2970805.38
+DR0014,Dr. Joseph Morgan,Primary Care / Internal Medicine,Georgia,4166,2956302.75
+DR0019,Dr. Linda Roberts,Endocrinology,Georgia,3623,2903778.77
+DR0050,Dr. Katherine Garcia,Rheumatology,Illinois,433,2902550.85
+DR0043,Dr. Brandon Phillips,Rheumatology,Florida,424,2873798.65
+DR0052,Dr. Deborah Reyes,Oncology,Pennsylvania,178,2648441.19
+DR0045,Dr. Ryan Bailey,Rheumatology,Georgia,385,2605866.91
+DR0062,Dr. Kevin Green,Oncology,Florida,176,2605741.34
+DR0007,Dr. Anthony Rivera,Primary Care / Internal Medicine,Pennsylvania,3735,2597018.94
+DR0044,Dr. Ryan Roberts,Rheumatology,Florida,362,2473856.42
+DR0077,Dr. Nancy Adams,Infectious Disease,Georgia,645,2417894.2
+DR0006,Dr. Jason Lopez,Primary Care / Internal Medicine,Georgia,3394,2401322.31
+DR0051,Dr. Kimberly Chavez,Rheumatology,Texas,336,2291790.89
+DR0016,Dr. Anthony Watson,Endocrinology,California,2820,2273132.23
+DR0012,Dr. Rachel Garcia,Primary Care / Internal Medicine,Illinois,3204,2247954.03
+DR0002,Dr. Brian Cox,Primary Care / Internal Medicine,Illinois,3091,2168802.65
+DR0047,Dr. Deborah Ruiz,Rheumatology,Illinois,309,2104863.15
+DR0021,Dr. Nicole Allen,Endocrinology,North Carolina,2580,2069549.92
+DR0027,Dr. Jonathan James,Endocrinology,California,2480,2024834.21
+DR0022,Dr. Edward Robinson,Endocrinology,Florida,2440,1982235.43
+DR0008,Dr. Thomas Wood,Primary Care / Internal Medicine,Florida,2670,1876826.24
+DR0010,Dr. Cynthia Flores,Primary Care / Internal Medicine,Pennsylvania,2558,1795469.98
+DR0020,Dr. Scott Morris,Endocrinology,North Carolina,2147,1714743.3
+DR0018,Dr. Kenneth Nelson,Endocrinology,Ohio,2122,1706013.05
+DR0079,Dr. Justin Reyes,Infectious Disease,Illinois,446,1681530.3800000001
+DR0054,Dr. Diane Reyes,Oncology,Ohio,109,1616892.6
+DR0076,Dr. Benjamin Evans,Infectious Disease,Arizona,426,1588582.58
+DR0083,Dr. Melissa Peterson,Infectious Disease,Pennsylvania,373,1407665.56
+DR0081,Dr. Jacob Rodriguez,Infectious Disease,Illinois,346,1295767.02
+DR0033,Dr. Brenda Edwards,Cardiology,New York,2493,1260834.13
+DR0075,Dr. Charles Cook,Infectious Disease,California,329,1232271.2
+DR0082,Dr. Nicholas Davis,Infectious Disease,Texas,295,1109239.35
+DR0024,Dr. Samantha Moore,Endocrinology,Illinois,1349,1097584.26
+DR0032,Dr. Patrick Sanchez,Cardiology,Texas,2148,1096016.6
+DR0074,Dr. Elizabeth Adams,Infectious Disease,Pennsylvania,280,1034159.98
+DR0039,Dr. Kathleen Brown,Cardiology,Texas,2031,1029295.18
+DR0080,Dr. Emily Cruz,Infectious Disease,Pennsylvania,264,992022.1799999999
+DR0037,Dr. Pamela Harris,Cardiology,North Carolina,1875,959897.43
+DR0029,Dr. Pamela Rodriguez,Cardiology,New York,1690,856066.15
+DR0031,Dr. Benjamin Ramos,Cardiology,New York,1594,823741.46
+DR0034,Dr. Gregory Moore,Cardiology,Georgia,1500,764185.97
+DR0035,Dr. James Bailey,Cardiology,Texas,1245,636808.76
+DR0030,Dr. Helen Howard,Cardiology,New York,1226,625701.1
+DR0036,Dr. Frank Reyes,Cardiology,Florida,987,502335.88
+DR0038,Dr. Ryan Adams,Cardiology,Texas,974,493487.28
+DR0028,Dr. Joseph Howard,Cardiology,Ohio,963,487823.25
+DR0064,Dr. Brenda Cruz,Pulmonology,Illinois,740,312926.51
+DR0073,Dr. John Green,Pulmonology,North Carolina,648,272062.84
+DR0067,Dr. Dennis Allen,Pulmonology,Florida,593,250934.82
+DR0066,Dr. Andrew Hernandez,Pulmonology,Ohio,491,206311.36000000002
+DR0069,Dr. Ashley Morgan,Pulmonology,Arizona,464,195033.08
+DR0071,Dr. Justin Bailey,Pulmonology,Illinois,444,188541.38
+DR0070,Dr. Ashley Peterson,Pulmonology,Illinois,436,184131.85
+DR0065,Dr. Kenneth Gray,Pulmonology,Illinois,399,166735.24
+DR0068,Dr. Kevin Morales,Pulmonology,Texas,391,163680.78
+DR0072,Dr. Scott Harris,Pulmonology,Georgia,263,110505.4

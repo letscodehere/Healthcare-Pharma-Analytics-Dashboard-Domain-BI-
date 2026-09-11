@@ -1,0 +1,8 @@
+{
+  "flagged_state": "Ohio",
+  "state_rx_per_doctor": 734.5,
+  "portfolio_avg_rx_per_doctor": 1757.3,
+  "gap_pct_below_average": 58.2,
+  "implied_missed_rx_if_at_average": 6137.0,
+  "implied_missed_revenue_if_at_average": 8663352.0
+}

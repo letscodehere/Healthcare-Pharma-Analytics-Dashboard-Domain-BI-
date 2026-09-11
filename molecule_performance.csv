@@ -1,0 +1,17 @@
+molecule,brand,therapy_area,total_rx,total_revenue,first_6mo_avg_rx,last_6mo_avg_rx,growth_pct
+Palbociclib,Ibrance,Oncology,2472,36105328.56,63.2,68.3,8.2
+Semaglutide,Ozempic,Diabetes & Metabolic,25021,23694709.84,458.3,986.2,115.2
+Ibrutinib,Imbruvica,Oncology,1412,21447991.42,50.3,31.3,-37.7
+Bictegravir-Emtricitabine-Tenofovir,Biktarvy,Infectious Disease (HIV),4286,16115783.04,94.8,161.0,69.8
+Tirzepatide,Mounjaro,Diabetes & Metabolic,15285,16045884.32,209.5,723.5,245.3
+Adalimumab,Humira,Immunology,2231,15142981.82,94.8,38.8,-59.1
+Ustekinumab,Stelara,Immunology,1778,13187163.83,51.2,49.8,-2.6
+Etanercept,Enbrel,Immunology,1960,12191412.78,64.0,43.3,-32.3
+Dulaglutide,Trulicity,Diabetes & Metabolic,11444,10292972.11,310.3,324.8,4.7
+Apixaban,Eliquis,Cardiovascular,18591,8918342.89,492.0,537.7,9.3
+Empagliflozin,Jardiance,Diabetes & Metabolic,14899,8222486.03,352.8,475.2,34.7
+Sacubitril-Valsartan,Entresto,Cardiovascular,10420,6351607.15,217.7,376.3,72.9
+Rivaroxaban,Xarelto,Cardiovascular,13100,6160482.1,354.2,347.8,-1.8
+Dapagliflozin,Farxiga,Diabetes & Metabolic,10160,5694530.14,258.2,316.0,22.4
+Sitagliptin,Januvia,Diabetes & Metabolic,7928,4282883.22,268.3,181.7,-32.3
+Fluticasone-Umeclidinium-Vilanterol,Trelegy Ellipta,Respiratory,4869,2050863.26,107.0,161.2,50.6
